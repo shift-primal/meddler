@@ -1,0 +1,6 @@
+@Meddler.API_HostAddress = http://localhost:5048
+
+GET {{Meddler.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
