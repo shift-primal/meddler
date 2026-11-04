@@ -1,2 +1,10 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Meddler.API/Meddler.API.csproj" />
+    <Project Path="src/Meddler.Core/Meddler.Core.csproj" />
+    <Project Path="src/Meddler.Worker/Meddler.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Meddler.Core.Tests/Meddler.Core.Tests.csproj" />
+  </Folder>
 </Solution>

@@ -20,7 +20,6 @@
           "net10.0"
         ],
         "sources": {
-          "/nix/store/yj7syaghn0zmrj0qvryczxhmc9qz3wxh-dotnet-sdk-10.0.403/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/yj7syaghn0zmrj0qvryczxhmc9qz3wxh-dotnet-sdk-10.0.403/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/nix/store/fdcysy9d98ffhmlw6vj14dz4cm4cg00d-dotnet-combined/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
